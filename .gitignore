@@ -1,0 +1,5 @@
+.env
+voices/es_AR-daniela-high.onnx
+voices/es_AR-daniela-high.onnx.json
+voices/te_IN-venkatesh-medium.onnx
+voices/te_IN-venkatesh-medium.onnx.json
